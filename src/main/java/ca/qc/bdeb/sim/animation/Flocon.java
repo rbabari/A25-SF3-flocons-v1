@@ -6,7 +6,7 @@ import javafx.scene.paint.Color;
 
 public class Flocon {
     public static final Point2D VELOCITE_INITIALE = new Point2D(0, 100);
-
+/// sfdghjkl
     // position = coin en haut à gauche du flocon
     protected Point2D position;
     protected Point2D taille;
